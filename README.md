@@ -22,3 +22,7 @@ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
+
+## References
+
+- [Python GUI Tkinter](https://realpython.com/python-gui-tkinter/)
