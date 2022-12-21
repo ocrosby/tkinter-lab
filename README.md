@@ -30,6 +30,13 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
+
+Executing an example project
+
+```bash
+python3 src/example1/main.py
+```
+
 ## References
 
 - [Python GUI Tkinter](https://realpython.com/python-gui-tkinter/)
