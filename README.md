@@ -5,6 +5,13 @@ This project is an experimental space for tkinter development.
 
 ## Setup
 
+Use Homebrew to install python-tk
+
+```bash
+brew install python-tk
+```
+
+
 Create a virtual environment
 
 ```bash
