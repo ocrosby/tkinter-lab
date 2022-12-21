@@ -5,6 +5,13 @@ This project is an experimental space for tkinter development.
 
 ## Setup
 
+Cloning the repository
+
+```bash
+git clone https://github.com/ocrosby/tkinter-lab.git
+```
+
+
 Use Homebrew to install python-tk
 
 ```bash
@@ -30,6 +37,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
+## Development
 
 Executing an example project
 
